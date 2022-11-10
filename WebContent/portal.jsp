@@ -37,5 +37,40 @@
         </div>
       </nav>
     </section>
+    <div class="main-content">
+      <div class="info-box box-leyout">
+        <div class="title">Information</div>
+      </div>
+      <div class="work-box box-leyout">
+        <div class="title">Work</div>
+      </div>
+      <div class="link-box box-leyout">
+        <div class="title">Link</div>
+        <div class="link-iconList">
+          <div class="icon-layout">
+            <img class="icon-slack" src="common/image/Slack_Mark.png" alt="slack" />
+            <span>slack</span>
+          </div>
+          <div class="icon-layout">
+            <img src="common/image/icons8-zoom.svg" alt="" />
+            <span>zoom</span>
+          </div>
+          <div class="icon-layout">
+            <img src="common/image/icon-mail.png" alt="slack" />
+            <span>webmail</span>
+          </div>
+          <div class="icon-layout">
+            <img src="common/image/icon-meisai.png" alt="slack" />
+            <span>給与明細</span>
+          </div>
+        </div>
+      </div>
+      <div class="todo-box box-leyout">
+        <div class="title">Todo</div>
+      </div>
+    </div>
+
+    <script type="text/javascript" src="common/js/portal.js"></script>
   </body>
 </html>
+
